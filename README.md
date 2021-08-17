@@ -1,1 +1,4 @@
-# Vedic-Multiplier
+# Vedic Multiplier
+It basically multiplies two 16-bit numbers. By using the uniqueness of Vedic mathematics, a less number of steps are required for multiplication, thus the Vedic multiplier will be more power efficient, faster and small in size.
+
+In processors the complex and challenging operations are needed to be handled to overcome the demands, which leads to an increase in processor cores. This leads to an increase in the load of the processor and can be limited by placing a co-processors under specific type of functions like signal processing. But anyhow the speed of the ALU replies on the multiplier. Since multipliers are the major components to perform operations in the CPU. To implement fast multiplication operations, Vedic mathematics are involved. This technique usually reduces the area, power and delay of the processors. Vedic Multiplier is designed and specified using Verilog HDL and have been synthesized and simulated using Xilinx Vivado HLX edition.
